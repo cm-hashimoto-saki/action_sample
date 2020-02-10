@@ -1,0 +1,17 @@
+# Global ignore.
+
+# Files
+*.iml
+local.properties
+
+# Directories
+.gradle/
+.idea/*
+!.idea/codeStyles/
+build/
+captures/
+signing/
+
+# MacOS
+Thumb.db
+.DS_Store
